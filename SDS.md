@@ -41,7 +41,7 @@
 <p align="justify"><li>Класс Button – класс отвечающий за создание кнопок программы.</li></p>
 <p align="justify"><li>Класс gameProc – класс отвечающий за непосредственно процесс игры.</li></p>
 </ol>
-<p align="justify">Диаграмма классов представленна на изображении ClassDiagram.PNG</p>
+<p align="justify">Диаграмма классов представленна на изображении https://github.com/AlexandrDavidovscky850503/checkers_game/blob/main/ClassDiagram.PNG</p>
 
 # <h1>4 Пользовательский интерфейс</h1>
-<p align="justify">Пользовательский интерфейс подробно описан в документе UserInterface.docx</p>
+<p align="justify">Пользовательский интерфейс подробно описан в документе https://github.com/AlexandrDavidovscky850503/checkers_game/blob/main/UserInterface.docx</p>
